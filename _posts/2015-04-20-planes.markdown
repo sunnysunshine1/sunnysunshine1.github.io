@@ -2,7 +2,7 @@
 title:  "Hi"
 subtitle: "noch mal Hi"
 author: "sunnysunshine"
-avatar: "img/authors/wferr.png"
+avatar: "img/authors/sunny.png"
 image: "img/1920px-Flamingos_Laguna_Colorada.jpg"
 date:   2017-07-23 12:12:12
 ---
